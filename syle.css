@@ -1,6 +1,31 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
 
-
-header{
+.cabeçalho{
 background-color: black;
-color: #FF00D6;
+color: #e95fd0;
+display: flex;
+justify-content: space-around;
+padding: 24px 0;
+} 
+
+.cabeçalho-lista-item{
+    color: #24FF00    ;
+    display: inline-block;
+margin: 0% 10px;
+
+}
+
+    .cabeçalho-lista-item-1{
+        color: #FF0000;
+        display: inline-block;
+margin: 0% 10px;
+    }
+
+.cabeçalho-lista-item-2{
+    color: #0400ff;
+    display: inline-block;
+    margin: 0% 10px;
 }
