@@ -29,3 +29,29 @@ margin: 0% 10px;
     display: inline-block;
     margin: 0% 10px;
 }
+
+
+.logo-1{
+
+width: 25%;
+
+}
+
+.tokyo{
+background-image: linear-gradient(#545454, #BABABA);
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 75px 0;
+}
+
+.tokyo-div{
+width: 50%;
+
+
+}
+
+.titulo-tokyo{
+padding: 10px 0;
+
+}
